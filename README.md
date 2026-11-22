@@ -5,4 +5,4 @@ https://tssuu57.github.io/Notes/
 ---
 
 ## 获取笔记
-在Github Release中下载zip文件
+https://github.com/Tssuu57/Notes/releases
