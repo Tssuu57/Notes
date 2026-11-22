@@ -1,5 +1,5 @@
 # Notes
-## 在线使用
+## 在线阅读
 https://tssuu57.github.io/Notes/
 
 ---
