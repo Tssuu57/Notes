@@ -1,6 +1,6 @@
 # Notes
 ## 在线使用
-打开 https://tssuu57.github.io/Notes/
+https://tssuu57.github.io/Notes/
 
 ---
 
